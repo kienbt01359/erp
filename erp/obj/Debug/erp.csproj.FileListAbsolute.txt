@@ -1,0 +1,5 @@
+c:\users\windows\documents\visual studio 2012\Projects\erp\erp\bin\erp.dll
+c:\users\windows\documents\visual studio 2012\Projects\erp\erp\bin\erp.pdb
+c:\users\windows\documents\visual studio 2012\Projects\erp\erp\obj\Debug\erp.csprojResolveAssemblyReference.cache
+c:\users\windows\documents\visual studio 2012\Projects\erp\erp\obj\Debug\erp.dll
+c:\users\windows\documents\visual studio 2012\Projects\erp\erp\obj\Debug\erp.pdb
